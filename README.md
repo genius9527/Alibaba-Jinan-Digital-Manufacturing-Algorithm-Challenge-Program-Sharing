@@ -1,5 +1,5 @@
 # Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing
-复赛第26名
+复赛第26名（26/2682）
 
 
 赛题背景：
