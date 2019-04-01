@@ -43,5 +43,19 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 
 ![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%A4%8D%E8%B5%9B%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
 
+数据：
+（1）复赛新数据集去除了潜在的异常值，收率范围在0.85-1之间（不一定包含两端点）。
+（2）复赛新数据B14列的取值范围在350-460之间（不一定包含两端点）。
+（3）复赛样本id重新编码，随机生成id，且id值在10000以上，例如sample_10001
+复赛评测：
+考虑到工厂采集数据存在输入误差的可能性，我们将把大家预测结果与答案之间误差（误差定义为所有提交选手该条记录标准差-该条记录答案）最大的3条样本作为误差数据删除，剩余的数据再统一做评测。
+
+复赛的最优收率值，我们的算法只有0.98615，但这个没有太多去调，因为只占10%的成绩，而且后来发现很多调到很接近1的大佬，测评时都超过1了，结果这一项就没有成绩了。
+
+复赛的优化主要是模型调参后进行了融合，使用了lgb和xgb做了融合。因为复赛打乱了样本id，并进行了重新编码，样本id相关的特征已经没有用了，就都删掉了。此外进行了特征选择，对重要性不高，去掉后线下效果变好的特征进行了删除。
+
+最后，取得了第26名的成绩
+
+![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%A4%8D%E8%B5%9B%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
 
 
