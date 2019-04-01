@@ -32,6 +32,16 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 
 ![初赛成绩](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
 
+复赛：
+
+复赛提交文件： 复赛需要提交线下材料，材料分为两个部分，每部分都会对参赛队伍进行排名：
+
+1. 提交一个csv文件，该文件格式同初赛的训练数据，该文件只有两行，第一行为表头，表头内容与初赛训练数据一致。要求该文件每一个工艺步骤的取值范围必须在初赛所有数据集（含C榜，初赛结束后提供）的对应参数取值范围内（工艺步骤对应列的最小值到最大值之间）。涉及到时间的工艺步骤时间取值必须在0点-24点之间，并且样本id不得参与计算。
+
+2. 提交代码文件，代码提交规范与初赛一致。复赛代码内容为全新代码，不必与初赛一致，当然也接受与初赛一致的代码。
+
+
+![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
 
 
 
