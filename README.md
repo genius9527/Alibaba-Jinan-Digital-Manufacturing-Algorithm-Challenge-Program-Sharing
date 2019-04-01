@@ -28,7 +28,7 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 
 还有一个骚操作，这个是参考鱼佬的思路，对类别特征进行了一个分箱操作，效果还不错，整个的意思还是因为类别特征很稀疏，但在不考虑 ID的前提下，会有很多特征完全相同，但是Y值差异很大的数据：
 
-![分箱操作](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
+![分箱操作](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%88%86%E7%AE%B1%E6%93%8D%E4%BD%9C.png)
 
 初赛有个bug，样本id竟然是个强特，照往常这种序号类的维度是可以丢弃的，但在初赛中很奇怪，可能样本id反应了生产批次，药品生产中，药品批次会涵盖很多其他维度的影响因素，所以对收率也会影响较大。
 
