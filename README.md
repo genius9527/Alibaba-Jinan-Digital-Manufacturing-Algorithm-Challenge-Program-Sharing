@@ -2,14 +2,14 @@
 复赛第26名（26/2682）
 
 
-赛题背景：
+**赛题背景**：
 2019津南数字制造算法挑战赛，聚焦智能制造，赛场一以原料企业工艺优化为课题，要求选手以异烟酸生产过程中的各参数，设计精确智能的优秀算法，提升异烟酸的收率，助力企业实现转型升级，提升行业竞争力。大赛数据提供方天津汉德威药业有限公司，为大赛提供真实生产数据，提供工艺专家的专业指导，从软硬件环境诸多方面提供大赛支撑。
 
-赛题数据：
+**赛题数据**：
 
 https://tianchi.aliyun.com/competition/entrance/231695/information
 
-初赛：
+**初赛**：
 
 大赛要求选手通过使用生产过程的各参数，训练算法来预测最终异烟酸的收率，同时，选手还需给出生产过程的最优参数组合及最优参数情况下的收率。
 
@@ -38,7 +38,7 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 
 ![初赛成绩](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
 
-复赛：
+**复赛**：
 
 复赛提交文件： 复赛需要提交线下材料，材料分为两个部分，每部分都会对参赛队伍进行排名：
 
