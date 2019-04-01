@@ -41,7 +41,7 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 2. 提交代码文件，代码提交规范与初赛一致。复赛代码内容为全新代码，不必与初赛一致，当然也接受与初赛一致的代码。
 
 
-![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%88%9D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
+![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%A4%8D%E8%B5%9B%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
 
 
 
