@@ -54,8 +54,8 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 
 复赛的优化主要是模型调参后进行了融合，使用了lgb和xgb做了融合。因为复赛打乱了样本id，并进行了重新编码，样本id相关的特征已经没有用了，就都删掉了。此外进行了特征选择，对重要性不高，去掉后线下效果变好的特征进行了删除。
 
-最后，取得了第26名的成绩
+最后，取得了第26名的成绩，小白第二次做天池，很满意了，还是要多向大佬们学习
 
-![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%A4%8D%E8%B5%9B%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
+![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%A4%8D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
 
 
