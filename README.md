@@ -62,4 +62,5 @@ https://tianchi.aliyun.com/competition/entrance/231695/information
 
 ![复赛评估指标](https://github.com/genius9527/Alibaba-Jinan-Digital-Manufacturing-Algorithm-Challenge-Program-Sharing/blob/master/%E5%A4%8D%E8%B5%9B%E6%88%90%E7%BB%A9.png)
 
+上传的是复赛的代码，数据可以自行去下载，放到/data 下面就可以，该程序运行时间为196s左右。代码只用执行一次，便可同时得到submit_optimize.csv和submit_FuSai.csv。
 
